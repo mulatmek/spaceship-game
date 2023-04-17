@@ -32,7 +32,8 @@ Once you have installed Pygame, you can run the game by executing the main.py fi
 #### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-![image](https://user-images.githubusercontent.com/89039091/232507999-8494c0f7-f1b4-471b-969c-9987075a0711.png)
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/89039091/232510162-40ade420-3b2f-4634-9026-74b14a86d263.png">
+
 
 
 
